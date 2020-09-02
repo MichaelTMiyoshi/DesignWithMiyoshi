@@ -20,6 +20,7 @@ The grading for my students for this assignment follow these criteria:
 * Letters and digits follow the proper proportions and line sequence (or at least appear to).
 * Letters and digits are all inside the margins.
 * Name is lettered properly and is inside the margins.
+* Only one side of the paper is used.  (If you mess up, you may use the other side.)
 
 **Sketching**
 
@@ -33,3 +34,6 @@ The grading for my students for this assignment follow these criteria:
 * Proper technique to line up the views is evident (you can keep the construction lines you use).
 * Sketch views are all inside the margins.
 * Name is lettered properly and is inside the margins.
+* Only one side of the paper is used.  (If you mess up, you may use the other side.)
+
+You will end up with four sheets of paper in this goal sheet.
