@@ -30,8 +30,8 @@ Goal Sheet Number | Topic(s) Covered
 [05](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet05.md) | SW Tutorial (drawings)
 [06](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet06.md) | Section Views
 [07](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet07.md) | More SW Tutorials
-[08](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
-[09](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
+[08](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet08.md) | Catch up
+[09](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet08.md) | Catch up
 -- | -- Semester --
 [10](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet10.md) | Revit
 [11](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet11.md) | Revit
