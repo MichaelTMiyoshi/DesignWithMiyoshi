@@ -12,6 +12,7 @@ The grading for my students for all the models and drawings in this assignment f
 * Drawing has all necessary and appropriate views.
 * Drawing has all necessary and appropriate dimensions.
 * Drawing is neat.
+* Drawing tangent edges are turned off in orthographic views (may be on in perspective views).
 * Drawing title block is filled in properly (name, date, design group title, drawing title).
 
 **5-38**
