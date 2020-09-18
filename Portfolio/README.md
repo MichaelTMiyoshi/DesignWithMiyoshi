@@ -1,6 +1,8 @@
 # Portfolio
 Students who take my class the second year and beyond are required to create portfolios.  These portfolios can be housed on GitHub.  The students should also have physical portfolios of their work.
 
+Make your repo private.  If you decide later to use it as part of an online portfolio or resume, you can then make it public.  Follow this [YouTube Video](https://www.youtube.com/watch?v=l9rcfkhii9M&feature=youtu.be) to see how to store your portfolio on GitHub.
+
 ## Projects
 Students get to choose their own projects.  They are also required to do two specific projects.
 
