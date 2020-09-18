@@ -3,6 +3,15 @@ Students who take my class the second year and beyond are required to create por
 
 Make your repo private.  If you decide later to use it as part of an online portfolio or resume, you can then make it public.  Follow this [YouTube Video](https://www.youtube.com/watch?v=l9rcfkhii9M&feature=youtu.be) to see how to store your portfolio on GitHub.
 
+My suggestion of how you should organize your repo is to have a few folders under your repo.  In the repo landing should just be your readme.md and your license files.  Then, use the following folders/directories for the different parts of your portfolio:
+
+* Models (and drawings)
+* Pictures and Renderings
+* Documents
+* Reference Material
+
+You could have more than these, but I would say the minimum would be the top three folders.  By the way, if you create this structure in your local repo, you will not see any folders that are empty.  Once you put something in your local folder and then push your commits, you will see the folder and its associated files.  It might freak you out the first time that happens.  Just remember that GitHub does not store empty folders.
+
 ## Projects
 Students get to choose their own projects.  They are also required to do two specific projects.
 
