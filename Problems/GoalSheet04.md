@@ -27,7 +27,7 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **9-49F (Half-Section)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49FNoDims.pdf">Figure 9-49FNoDims</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49F.pdf">Figure 9-49F</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49FNoDim.pdf">Figure 9-49FNoDim</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49F.pdf">Figure 9-49F</a>.
 
 **9-49J (Half-Section)**
 
