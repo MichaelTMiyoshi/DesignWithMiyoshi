@@ -23,7 +23,7 @@ The grading for my students for all the models and drawings in this assignment f
 
 **9-49B (Half-Section)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49BNoDims.pdf">Figure 9-49BNoDims</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49B.pdf">Figure 9-49B</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49BNoDim.pdf">Figure 9-49BNoDim</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49B.pdf">Figure 9-49B</a>.
 
 **9-49F (Half-Section)**
 
@@ -35,7 +35,7 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **9-50A (Full-Section)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50ANoDims.pdf">Figure 9-50ANoDims</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50A.pdf">Figure 9-50A</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50ANoDim.pdf">Figure 9-50ANoDim</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50A.pdf">Figure 9-50A</a>.
 
 **9-50C (Full-Section)**
 
@@ -43,10 +43,10 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **9-50K (Full-Section aligned)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50KNoDims.pdf">Figure 9-50KNoDims</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50K.pdf">Figure 9-50K</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50KNoDim.pdf">Figure 9-50KNoDim</a>.  If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50K.pdf">Figure 9-50K</a>.
 
 * Make sure that the full-section of this drawing is aligned.  That is, make sure that the section goes through two adjacent "spokes" of the figure.
 
 **9-50L (Full-Section)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50LNoDims.pdf">Figure 9-50LNoDims</a>.    If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50L.pdf">Figure 9-50L</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50LNoDim.pdf">Figure 9-50LNoDim</a>.    If you are not up for the challenge of measuring, you can look at the drawing with dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-50L.pdf">Figure 9-50L</a>.
