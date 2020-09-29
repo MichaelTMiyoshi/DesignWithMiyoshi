@@ -1,4 +1,4 @@
-# Goal Sheet 06
+# Goal Sheet 04 (in person 06)
 
 Section views.  It might not make complete sense, but full section views are when you look at a model as if you cut it in half.  A half section view looks at the model as if you cut a quarter out of it (and looked at the three-quarters that are left).
 
