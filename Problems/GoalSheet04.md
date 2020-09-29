@@ -1,4 +1,4 @@
-# Goal Sheet 04 (in person 06)
+# Goal Sheet 04
 
 Section views.  It might not make complete sense, but full section views are when you look at a model as if you cut it in half.  A half section view looks at the model as if you cut a quarter out of it (and looked at the three-quarters that are left).
 
@@ -6,7 +6,7 @@ Note: In my classroom, I use these drawings as a way for the students to learn h
 
 **9-49A (Half-Section)**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49A.pdf">Figure 9-49A</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49A.pdf">Figure 9-49A</a>.  For a challenge, try printing out the drawing with no dimensions <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/9-49ANoDims.pdf"></a> and using calipers or another measuring device to figure out the dimensions.  Take care to note the scale of the drawing if you take this challenge.
 
 The grading for my students for all the models and drawings in this assignment follow these criteria:
 
