@@ -44,5 +44,8 @@ The final reflection (second semester or last semester of the year) students giv
 
 Each of these semester reflections should be about ½ page or more (single-spaced 12 point font).
 
+## Leadership
+Students accumulate leadership points in and out of class.  These points are also part of the students' final grades.
+
 ## Self Assessment
 Finally, the students must give me individual self-assessments.  These self-assessments take into account the quality and quantity of their modeling work as well as the quality and completeness of the written documents listed above.  These self-assessments are discussed with me and together we determine the students' final grades.
