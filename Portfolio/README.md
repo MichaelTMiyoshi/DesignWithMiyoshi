@@ -1,7 +1,7 @@
 # Portfolio
 Students who take my class the second year and beyond are required to create portfolios.  These portfolios can be housed on GitHub.  The students should also have physical portfolios of their work.
 
-Make your repo private.  If you decide later to use it as part of an online portfolio or resume, you can then make it public.  Follow this [YouTube Video](https://www.youtube.com/watch?v=l9rcfkhii9M&feature=youtu.be) to see how to store your portfolio on GitHub.  You can also follow the written instructions in [this repository file](https://github.com/MichaelTMiyoshi/BoidsSimulation/blob/master/TerminalGit.md).
+Make your repo private.  If you decide later to use it as part of an online portfolio or resume, you can then make it public.  Follow this [YouTube Video](https://www.youtube.com/watch?v=l9rcfkhii9M&feature=youtu.be) to see how to store your portfolio on GitHub.  You can also follow the written instructions in [this repository file](https://github.com/MichaelTMiyoshi/BoidsSimulation/blob/master/TerminalGit.md).  (Even though it uses the terminal on a Mac, you can use the same instructions on GitBash on a PC.)
 
 My suggestion of how you should organize your repo is to have a few folders under your repo.  In the repo landing should just be your readme.md and your license files.  Then, use the following folders/directories for the different parts of your portfolio:
 
