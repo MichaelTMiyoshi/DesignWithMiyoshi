@@ -1,0 +1,52 @@
+Project Title
+
+Project Graphic
+
+Group Name (if applicable)
+Name(s) of Designer(s)
+Cedarcrest High School
+Date
+ 
+1.0	Introduction (2 points)
+1.1	Introduction paragraph(s) gives an overview of the project.  Tell what the project is in general and specific terms.
+
+2.0	Target Market (2 points)
+2.1	Give a description of who would use the product and / or a customer list.  (It could be a design for one specific user.)
+
+3.0	Requirements (4 points)
+3.1	Tell what requirements you were trying to have your project meet.
+3.2	Give specific and appropriate supporting details.  Use as many paragraphs as needed to fully explain.  (You may also embed screen shots.)
+
+4.0	Product Ideas (4 points)
+4.1	How did you come up with your product?  What were some ideas you had when developing your design?
+4.2	Describe how you decided on the project, how you met the  requirements with your design.
+
+5.0	Product Sketches (4 points)
+5.1	Include your sketches and descriptions of those sketches.  (The sketches can be in the appendix.)
+
+6.0	Success in Creating Product (4 points)
+6.1	Answer the question: How successful were you in creating the product?
+6.2	Give specific and appropriate supporting details.  Use as many paragraphs as needed to fully explain.  (You may also embed screen shots.)
+
+7.0	Lessons Learned (4 points)
+7.1	Answer the question: What lessons did you learn (at least 2) that were not modeling or rendering skills.  Such as what you would do again and what you would not do again.
+7.2	Give specific and appropriate supporting details.  Use as many paragraphs as needed to fully explain.  (You may also embed screen shots.)
+
+8.0	Skills Learned (4 points)
+8.1	Answer the question: What specific technical skills did you learn?  And tell how you would teach at least one skill.
+8.2	Give specific and appropriate supporting details.  Use as many paragraphs as needed to fully explain.  (You may also embed screen shots.)
+
+9.0	Description of Product Drawings (2 points)
+9.1	Describe the drawings that you have for your project.  Point out specific details in your drawings of how your project met the requirements you set out to meet.
+
+10.0	Product Drawings (6 points)
+10.1	Include product drawings with appropriately filled in title blocks, dimensions, notes, etc.
+
+
+11.0	Product Renderings and/or Physical Models (4 points)
+11.1	Put together enough renderings to show off your product.  (3)  These renderings (and /or pictures of physical models) must show case the product in the best light for customers or potential customers to want to obtain the product.  Also give a short explanation of how you would go about appealing to customers (1). 
+Appendix/Notes
+
+You can put other notes or thoughts into the Appendix/Notes section.  These are thoughts or notes that do not fit into the other categories but add to the understanding of the product.  The Appendix/Notes section may be deleted if not used.
+
+By the way, edit the header (put the title of your project) and footer (replace “Name” with your name so that it appears on each page).
