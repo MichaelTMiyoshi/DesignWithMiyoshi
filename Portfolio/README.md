@@ -43,3 +43,6 @@ Each Semester students should reflect (in written form) on their classroom perfo
 The final reflection (second semester or last semester of the year) students give will answer the following question: What three (or more) lessons will take from this class when you leave and how will you apply them to your life after high school?  These lessons can be content, value (TRIED), or non-content/value related.  
 
 Each of these semester reflections should be about ½ page or more (single-spaced 12 point font).
+
+## Self Assessment
+Finally, the students must give me individual self-assessments.  These self-assessments take into account the quality and quantity of their modeling work as well as the quality and completeness of the written documents listed above.  These self-assessments are discussed with me and together we determine the students' final grades.
