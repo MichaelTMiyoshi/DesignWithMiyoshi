@@ -27,3 +27,19 @@ Other possible world problems that students might try to tackle with design are:
 * Overcrowding (housing solutions, urban design, etc.)
 * Homelessness
 * other problems that are more than comfort or convenience issues.
+
+### Write Ups
+Each project needs a write up that follows the format given in the Microsoft Word file [WriteUp-DesignProject.docx](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Portfolio/WriteUp-DesignProject.docx).  Each paragraph of the document gives you prompts of what you are supposed to write.  Just replace the prompts with your text that answers the prompts.  I have also included a [plain text](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Portfolio/WriteUp-DesignProject.txt) copy of the document as well.
+
+## Reflections
+There are some reflections I would like my student to give me.  These are documents that the students write separate from their project write ups.
+
+### TRIED
+The first five should be part of a living document while they are in my class.  This document holds reflections on the core values of my class.  [Reflections on TRIED](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Portfolio/Reflections-TRIED.md)  Students do not need to start new documents each year, instead they should add to the document each year that they are in my class adding new insight to the semester(s) or year(s) before.
+
+### End of Semester/Year Reflection(s)
+Each Semester students should reflect (in written form) on their classroom performance in terms of work ethic, appropriate behavior (including language), meeting expectations, and values (TRIED).
+
+The final reflection (second semester or last semester of the year) students give will answer the following question: What three (or more) lessons will take from this class when you leave and how will you apply them to your life after high school?  These lessons can be content, value (TRIED), or non-content/value related.  
+
+Each of these semester reflections should be about ½ page or more.
