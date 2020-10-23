@@ -27,8 +27,8 @@ Goal Sheet Number | Topic(s) Covered
 [02](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet02.md) | Simple SolidWorks models & drawings
 [03](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet03.md) | Auxiliary Views
 [04(06)](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet04(06).md) | Section Views
-[05](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet05.md) | SW Tutorial
-[06](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet06.md) | SW Tutorial Drawings
+[05](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Toy Semi Truck (or SW Tutorial)
+[06](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet06.md) | Toy Semi Truck (or SW Tutorial Drawings)
 [07](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet07.md) | More SW Tutorials
 [08](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet08.md) | Catch up
 [09](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet08.md) | Catch up
