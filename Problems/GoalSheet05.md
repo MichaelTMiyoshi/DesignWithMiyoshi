@@ -29,9 +29,13 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **Exhaust**
 
+Note: As of 10/22/2020 the exhaust is too short.  Should be at least an inch longer, maybe two.  Will be updated later.
+
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi02Exhaust.pdf">Semi Exhaust</a>.
 
 **Base**
+
+Note: As of 10/22/2020 the base is missing some holes.  These will be added at a later time.
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi03Base.pdf">Semi Base</a>.
 
