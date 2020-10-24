@@ -59,10 +59,6 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi08Dowel25.pdf">Semi .25 inch Dowel</a>.
 
-
-
-### Note: The following drawings are not available yet.  (10/22/2020)  And some may be part of Goal Sheet 06.
-
 **Washer**
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi09Washer.pdf">Semi Washer</a>.
@@ -71,6 +67,9 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi10Wheel.pdf">Semi Wheel</a>.
 
+
+
+### Note: The following drawings are not available yet.  (10/24/2020)  And some may be part of Goal Sheet 06.
 
 **Axle-Wheel Sub-Assembly**
 
