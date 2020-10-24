@@ -25,27 +25,27 @@ There are other models and drawings that will be made and graded according to th
 
 **Axle**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi01Axle.pdf">Semi Axle</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi01Axle.pdf">Semi Axle</a>.  Watch the [video](https://www.youtube.com/watch?v=m5asf7VR_Zo&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=40) where I create the part and drawing.
 
 **Exhaust**
 
 Note: As of 10/22/2020 the exhaust is too short.  Should be at least an inch longer, maybe two.  Will be updated later.
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi02Exhaust.pdf">Semi Exhaust</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi02Exhaust.pdf">Semi Exhaust</a>.  Watch the [video](https://www.youtube.com/watch?v=kMRFspiySoU&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=41) where I create the part and drawing.
 
 **Base**
 
 Note: As of 10/22/2020 the base is missing some holes.  These will be added at a later time.
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi03Base.pdf">Semi Base</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi03Base.pdf">Semi Base</a>.  Watch the [video](https://www.youtube.com/watch?v=Od5DDmbjdII&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=42) where I create the part and drawing.
 
 **Cab**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi04Cab.pdf">Semi Cab</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi04Cab.pdf">Semi Cab</a>.  Watch the [video](https://www.youtube.com/watch?v=rF1or-MBrTk&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=43) where I create the part and drawing.
 
 **Hood**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi05Hood.pdf">Semi Hood</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi05Hood.pdf">Semi Hood</a>.  Watch the [video](https://www.youtube.com/watch?v=i1LEXE3faHg&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=44) where I create the part and drawing.
 
 **Bottom**
 
