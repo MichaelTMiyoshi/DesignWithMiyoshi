@@ -84,4 +84,4 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **Semi Assembly**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi13Assembly.pdf">Semi Assembly</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi13TractorAssembly.pdf">Semi Assembly</a>.
