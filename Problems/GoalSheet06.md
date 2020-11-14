@@ -26,7 +26,7 @@ There are other models and drawings that will be made and graded according to th
 
 **Axle-Wheel Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Wheel-Axle Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm01AxleWheel.pdf">Semi Wheel-Axle Sub-Assembly</a>.
 
 **Bottom Sub-Assembly**
 
@@ -38,4 +38,4 @@ Use SolidWorks to create the assembly and then the drawing for <a href="https://
 
 **Semi Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi13TractorAssembly.pdf">Semi Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm04Tractor.pdf">Semi Assembly</a>.
