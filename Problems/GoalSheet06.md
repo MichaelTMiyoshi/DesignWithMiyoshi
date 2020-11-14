@@ -26,20 +26,20 @@ There are other models and drawings that will be made and graded according to th
 
 **Axle-Wheel Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm01AxleWheel.pdf">Semi Wheel-Axle Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm01AxleWheel.pdf">Semi Wheel-Axle Sub-Assembly</a>.  Watch the [video](https://youtu.be/IZz4_Y8tCfQ) where I create the sub-assembly and drawing.
 
 **Bottom Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Bottom Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Bottom Sub-Assembly</a>.  Watch the [video](https://youtu.be/XhWkNXzbIeo) where I create the sub-assembly and drawing.
 
 **Cab Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Cab Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Cab Sub-Assembly</a>.  Watch the [video](https://youtu.be/RRktGhBJQsQ) where I create the sub-assembly and drawing.
 
 **Hood Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Hood Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Hood Sub-Assembly</a>.  Watch the [video](https://youtu.be/OtMVNDKNQjI) where I create the sub-assembly and drawing.
 
 **Semi Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm05Tractor.pdf">Semi Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm05Tractor.pdf">Semi Assembly</a>.  Watch the [video](https://youtu.be/a0aX7aYoTaA) where I create the assembly and drawing.
