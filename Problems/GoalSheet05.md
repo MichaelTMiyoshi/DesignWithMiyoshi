@@ -49,20 +49,20 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **Bottom**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi06Bottom.pdf">Semi Bottom</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi06Bottom.pdf">Semi Bottom</a>.  Watch the [video](https://youtu.be/nhEN1693uHw) where I create the part and drawing.
 
 **.5 Inch Dowel**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi07Dowel5.pdf">Semi .5 inch Dowel</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi07Dowel5.pdf">Semi .5 inch Dowel</a>.  Watch the [video](https://youtu.be/kL4nFMcG9Cw) where I create the part and drawing.
 
 **.25 Inch Dowel**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi08Dowel25.pdf">Semi .25 inch Dowel</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi08Dowel25.pdf">Semi .25 inch Dowel</a>.  Watch the [video](https://youtu.be/kL4nFMcG9Cw) where I create the part and drawing.
 
 **Washer**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi09Washer.pdf">Semi Washer</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi09Washer.pdf">Semi Washer</a>.  Watch the [video](https://youtu.be/jnePNL4TlKw) where I create the part and drawing.
 
 **Wheel**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi10Wheel.pdf">Semi Wheel</a>.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi10Wheel.pdf">Semi Wheel</a>.  Watch the [video](https://youtu.be/4SGa0AZUaB8) where I create the part and drawing.
