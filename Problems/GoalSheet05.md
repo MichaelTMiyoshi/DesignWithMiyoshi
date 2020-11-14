@@ -66,21 +66,3 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 **Wheel**
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi10Wheel.pdf">Semi Wheel</a>.
-
-
-
-### Note: The following drawings are not available yet.  (10/24/2020)  And some may be part of Goal Sheet 06.
-
-**Axle-Wheel Sub-Assembly**
-
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Wheel-Axle Sub-Assembly</a>.
-
-
-**Body Sub-Assembly**
-
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Body Sub-Assembly</a>.
-
-
-**Semi Assembly**
-
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi13TractorAssembly.pdf">Semi Assembly</a>.
