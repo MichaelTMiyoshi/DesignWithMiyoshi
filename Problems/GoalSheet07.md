@@ -34,7 +34,7 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **Trailer Top**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer03Top.pdf">Semi Trailer Top</a>.  Watch the [video]https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer03Top.pdf">Semi Trailer Top</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
 
 **Trailer Side**
 
