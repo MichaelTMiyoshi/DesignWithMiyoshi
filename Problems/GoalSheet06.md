@@ -32,10 +32,14 @@ Use SolidWorks to create the assembly and then the drawing for <a href="https://
 
 Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Bottom Sub-Assembly</a>.
 
-**Body Sub-Assembly**
+**Cab Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Body Sub-Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Cab Sub-Assembly</a>.
+
+**Hood Sub-Assembly**
+
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Hood Sub-Assembly</a>.
 
 **Semi Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm04Tractor.pdf">Semi Assembly</a>.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm05Tractor.pdf">Semi Assembly</a>.
