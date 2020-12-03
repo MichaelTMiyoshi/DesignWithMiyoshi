@@ -34,11 +34,11 @@ Use SolidWorks to create the assembly and then the drawing for <a href="https://
 
 **Cab Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Cab Sub-Assembly</a>.  Watch the [video](https://youtu.be/RRktGhBJQsQ) where I create the sub-assembly and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm03CabDowels.pdf">Semi Cab Sub-Assembly</a>.  Watch the [video](https://youtu.be/RRktGhBJQsQ) where I create the sub-assembly and drawing.
 
 **Hood Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi12BodySub.pdf">Semi Hood Sub-Assembly</a>.  Watch the [video](https://youtu.be/OtMVNDKNQjI) where I create the sub-assembly and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm04HoodDowel.pdf">Semi Hood Sub-Assembly</a>.  Watch the [video](https://youtu.be/OtMVNDKNQjI) where I create the sub-assembly and drawing.
 
 **Semi Assembly**
 
