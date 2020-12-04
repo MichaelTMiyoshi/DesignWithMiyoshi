@@ -35,7 +35,7 @@ Use SolidWorks to create the model and then the drawing for <a href="https://git
 
 **Base**
 
-Note: The drawing is up to date, but the video only shows the preliminary holes being made.  The holes that were added at later stages in development shown in later videos.
+Note: The drawing is up to date, but the video only shows the preliminary holes being made.  The holes that were added at later stages in development are shown in later videos.
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi03Base.pdf">Semi Base</a>.  Watch the [video](https://www.youtube.com/watch?v=Od5DDmbjdII&list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT&index=42) where I create the part and drawing.
 
