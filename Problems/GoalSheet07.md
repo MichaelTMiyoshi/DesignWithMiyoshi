@@ -26,7 +26,7 @@ There are other models and drawings that will be made and graded according to th
 
 **Trailer Bottom**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer01Bottom.pdf">Semi Trailer Bottom</a>.  Watch the [video](https://youtu.be/Q_VBMT5Gh-k) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer01Bottom.pdf">Semi Trailer Bottom</a>.  Watch the [video](https://youtu.be/B-Gbn7FMLXM) where I create the part and drawing.
 
 **Trailer Base**
 
