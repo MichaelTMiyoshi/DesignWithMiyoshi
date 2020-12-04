@@ -26,32 +26,32 @@ There are other models and drawings that will be made and graded according to th
 
 **Trailer Bottom**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer01Bottom.pdf">Semi Trailer Bottom</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer01Bottom.pdf">Semi Trailer Bottom</a>.  Watch the [video](https://youtu.be/Q_VBMT5Gh-k) where I create the part and drawing.
 
 **Trailer Base**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer02Base.pdf">Semi Trailer Base</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer02Base.pdf">Semi Trailer Base</a>.  Watch the [video](https://youtu.be/CtVNj66QBho) where I create the part and drawing.
 
 **Trailer Top**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer03Top.pdf">Semi Trailer Top</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer03Top.pdf">Semi Trailer Top</a>.  Watch the [video](https://youtu.be/fHPYed6Z58g) where I create the part and drawing.
 
 **Trailer Side**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer04Side.pdf">Semi Trailer Side</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer04Side.pdf">Semi Trailer Side</a>.  Watch the [video](https://youtu.be/Cdhnjmmqwbc) where I create the part and drawing.
 
 **Trailer Front**
 
-Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer05Front.pdf">Semi Trailer Front</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailer05Front.pdf">Semi Trailer Front</a>.  Watch the [video](https://youtu.be/RIgx6qS5NB0) where I create the part and drawing.
 
 **Bottom Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailerAssm01BottomSub.pdf">Semi Trailer Bottom Sub-Assembly</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailerAssm01BottomSub.pdf">Semi Trailer Bottom Sub-Assembly</a>.  Watch the [video](https://youtu.be/fVW1GJc0Cf4) where I create the part and drawing.
 
 **Trailer Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailerAssembly.pdf">Semi Trailer Assembly</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiTrailerAssembly.pdf">Semi Trailer Assembly</a>.  Watch the [video](https://youtu.be/XQkGU8P-0Ls) where I create the part and drawing.
 
 **Tractor Trailer Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/TractorTrailerAssembly.pdf">Semi Tractor Trailer Assembly</a>.  Watch the [video](https://www.youtube.com/playlist?list=PLJEm9rFVJ11DK6kCdsiycQVJ16rh2zwVT) where I create the part and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/TractorTrailerAssembly.pdf">Semi Tractor Trailer Assembly</a>.  Watch the [video](https://youtu.be/sEfNhBXTDY4) where I create the part and drawing.
