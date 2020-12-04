@@ -30,7 +30,7 @@ Use SolidWorks to create the assembly and then the drawing for <a href="https://
 
 **Bottom Sub-Assembly**
 
-Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/Semi11WheelSub.pdf">Semi Bottom Sub-Assembly</a>.  Watch the [video](https://youtu.be/XhWkNXzbIeo) where I create the sub-assembly and drawing.
+Use SolidWorks to create the assembly and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/SemiAssm02BottomWheel.pdf">Semi Bottom Sub-Assembly</a>.  Watch the [video](https://youtu.be/XhWkNXzbIeo) where I create the sub-assembly and drawing.
 
 **Cab Sub-Assembly**
 
