@@ -5,3 +5,5 @@ The Advanced Goal Sheet is simply a tool I use for my advanced students to tell 
 My advanced students choose what software they will use to make their projects.  My beginning students get that choice after they finish Goal Sheet 11.  I give them a choice of two pieces of software that we use in class together and that I give them some instructions on (SolidWorks and Revit) and one piece of software that I do not teach (Blender).  If students want to use other pieces of software, we have a discussion about it and I decide to let them or not.  Students may also choose to go back and forth between the different pieces of software.
 
 Projects range from simple projects to complex projects.  It is really up to the students.  And they create some fantastic things.
+
+Here is a link to my [advanced goal sheet](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Documents/GoalsSheetAdvanced.docx).  Just download it and edit it in Word.
