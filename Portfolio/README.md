@@ -37,6 +37,14 @@ There are some reflections I would like my student to give me.  These are docume
 ### TRIED
 The first five should be part of a living document while they are in my class.  This document holds reflections on the core values of my class.  [Reflections on TRIED](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Portfolio/Reflections-TRIED.md)  Students do not need to start new documents each year, instead they should add to the document each year that they are in my class adding new insight to the semester(s) or year(s) before.
 
+Here are some simple definitions of the TRIED values.
+
+* **_Teamwork_** is working with others. Teams can be big or small. Cooperation is no small part of teamwork, but it is not everything.
+* **_Respect_** is the regard due to somebody. In other words, you respect other people because that is their due just because they are people.
+* **_Integrity_** is more than just honesty. The best definition I have heard is this: Integrity is what you do when nobody else is looking.
+* **_Excellence_** is not just a modifier, nor is is merely a measure of quality. It is a standard to be strived for.  You may not totally be able to describe excellence, but you know what it is when you see it.
+* **_Discipline_** is doing what you need to do when you need to do it whether you want to or not.
+
 ### End of Semester/Year Reflection(s)
 Each Semester students should reflect (in written form) on their classroom performance in terms of work ethic, appropriate behavior (including language), meeting expectations, and values (TRIED).
 
