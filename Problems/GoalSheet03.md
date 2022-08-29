@@ -1,5 +1,7 @@
 # Goal Sheet 03
 
+Depending on your project, you may end up doing four, five, or six of these objects and their auxiliary views.  Regardless of the choices you make, you must do the last three models (7-53, 7-54, 7-56) and their auxiliary drawings.  If parts for your project require or would benefit from auxiliary drawings, you may substitute up to two of them for your goal sheet models/drawings.
+
 **7-50**
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/7-50.pdf">Figure 7-50</a>.
