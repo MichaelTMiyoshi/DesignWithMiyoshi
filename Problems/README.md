@@ -23,6 +23,7 @@ Below are the goal sheets with their associated descriptions (including the catc
 
 Goal Sheet Number | Topic(s) Covered
 ----------------- | ----------------
+[00](https://github.com/MichaelTMiyoshi/TeamworkWithMiyoshi)                                   | Teamwork
 [01](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet01.md) | Lettering, Sketching
 [02](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet02.md) | Simple SolidWorks models & drawings
 [03](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Problems/GoalSheet03.md) | Auxiliary Views
