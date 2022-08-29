@@ -1,5 +1,5 @@
 # Problems
-These problem statements in this folder are the ones I use in my class.  I group them into what I call goal sheets (which are how they are named in the files here).  Each goal sheet is slated to take two weeks.
+These problem statements in this folder are the ones I use in my class.  I group them into what I call goal sheets (which are how they are named in the files here).  Each goal sheet is slated to take two weeks.  (Note: In 2022, the goal sheets will be changing.  I have not yet had a chance to update all the goal sheets to reflect the changes as at least some of them will be happening as the semester goes on.)
 
 As I said, I will have the problems in files representing those two week goal sheets.  By the way, if you count the number of goal sheets and know that a typical high school calendar has 18 weeks per semester, you will wonder why not all goal sheets have problems.  That is because I have catch up goal sheets in my class.  (Sorry, no mustard ones, but one of my former students said that everybody ought to relish every goal sheet.)  Which is also why they are not numbered sequentially.  (Or maybe why I will put the catch up goal sheets in the sequence.)
 
