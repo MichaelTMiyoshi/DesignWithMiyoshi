@@ -1,5 +1,7 @@
 # Goal Sheet 02
 
+You will be creating a couple simple objects, a few complex objects, and at least two objects for your design project.  The first two (5-37 and 5-38) are worth half the points as the others.  You may choose to do 5-42 or 5-43.  The last two figures (5-46E and 5-46L) are required.  To finish out the goal sheet, you will create at least 2 of the objects you sketched for your project.  If you have changed your idea, you may create the new parts instead.
+
 **5-37**
 
 Use SolidWorks to create the model and then the drawing for <a href="https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/images/5-37.pdf">Figure 5-37</a>.
