@@ -18,7 +18,7 @@ Intro students will create required projects
 - 3 Shapes that require auxiliary view drawing(s) for at least one face of the shape
 - 3 Shapes that require or are at least enhanced by section view drawing(s)
 - Birdhouse part and assembly project
-- Semester project to solve a specific problem (1st semester)
+- Semester [group project](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Projects/pr_2023RollingToy.docx) to solve a specific problem (1st semester)
 - 2 Revit building projects (one can be a tutorial)
 - Projects that the students choose.  (Students may choose to use Solidworks, Revit, or Blender for their projects.  Note that Blender is not taught in class.)
 
