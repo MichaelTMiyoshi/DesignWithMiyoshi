@@ -1,1 +1,1 @@
-Required Part.  You must use this piece in your project.  The solidworks file, the drawing file, and the stl file are in this folder.
+Required Part(s).  You must use this piece (or pieces) in your project.  The solidworks file(s), the drawing file(s), and the stl file(s) are in this folder.
