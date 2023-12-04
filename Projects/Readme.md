@@ -19,6 +19,7 @@ Intro students will create required projects
 - 3 Shapes that require or are at least enhanced by section view drawing(s)
 - Birdhouse part and assembly project
 - Semester [group project](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Projects/IntroDesignProject/pr_2023RollingToy.docx) to solve a specific problem (1st semester) - Files associated with this project are in [this folder](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/tree/master/Projects/IntroDesignProject) and downloadable as Word files.
+- Tutorial from Beginner's Guide to Solidworks
 - 2 Revit building projects (one can be a tutorial)
 - Projects that the students choose.  (Students may choose to use Solidworks, Revit, or Blender for their projects.  Note that Blender is not taught in class.)
 
