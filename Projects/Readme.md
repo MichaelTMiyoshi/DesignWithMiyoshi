@@ -14,9 +14,9 @@ Projects all have the following requirements:
 
 Intro students will create required projects
 
-- 3 Simple Shapes (can be simple extrusions with some complex features)
-- 3 Shapes that require auxiliary view drawing(s) for at least one face of the shape
-- 3 Shapes that require or are at least enhanced by section view drawing(s)
+- 6 Simple Shapes (can be simple extrusions with some complex features), 3 of which must be from a book in the classroom or from real life.  Real-life projects must be measured with calipers or other measuring devices.
+- 6 Shapes that require auxiliary view drawing(s) for at least one face of the shape, 3 of which must be from a book in the classroom or from real life.  Real-life projects must be measured with calipers or other measuring devices.
+- 6 Shapes that require or are at least enhanced by section view drawing(s), 3 of which must be from a book in the classroom or from real life.  Real-life projects must be measured with calipers or other measuring devices.
 - Birdhouse part and assembly project
 - Semester [group project](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/blob/master/Projects/IntroDesignProject/pr_2023RollingToy.docx) to solve a specific problem (1st semester) - Files associated with this project are in [this folder](https://github.com/MichaelTMiyoshi/DesignWithMiyoshi/tree/master/Projects/IntroDesignProject) and downloadable as Word files.
 - Tutorial from Beginner's Guide to Solidworks
